@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Proyecto de computación cuántica",
+    "category": "quantum",
+    "tag": "Computación cuántica",
+    "meta": "Investigación",
+    "description": "Describe la pregunta de investigación, el método y el principal resultado del proyecto.",
+    "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=1100&q=85",
+    "imageFile": "",
+    "imageAlt": "Fórmulas y diagramas científicos escritos en una pizarra",
+    "url": ""
+  },
+  {
+    "title": "Herramienta de software",
+    "category": "software",
+    "tag": "Desarrollo",
+    "meta": "Desarrollo",
+    "description": "Describe una herramienta o aplicación, su propósito y las tecnologías que utilizaste.",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1100&q=85",
+    "imageFile": "",
+    "imageAlt": "Detalle de componentes y conexiones de una placa electrónica",
+    "url": ""
+  },
+  {
+    "title": "Investigación doctoral",
+    "category": "research",
+    "tag": "Investigación",
+    "meta": "Doctorado",
+    "description": "Resume una línea de investigación, una publicación o una colaboración académica.",
+    "imageUrl": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=1100&q=85",
+    "imageFile": "",
+    "imageAlt": "Pizarra con ecuaciones y esquemas de matemáticas",
+    "url": ""
+  },
+  {
+    "title": "Proyecto de código abierto",
+    "category": "software",
+    "tag": "Código abierto",
+    "meta": "GitHub",
+    "description": "Presenta una contribución de código abierto, simulación o herramienta para la comunidad.",
+    "imageUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1100&q=85",
+    "imageFile": "",
+    "imageAlt": "Infraestructura de servidores y computación",
+    "url": ""
+  }
+]
