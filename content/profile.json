@@ -1,5 +1,5 @@
 {
-  "name": "[Tu nombre]",
+  "name": "Alvaro Casas Zan",
   "role": "Desarrollador · Doctorando en Ciencias de la Computación",
   "metaDescription": "Portfolio de [Tu nombre], desarrollador de software e investigador en computación cuántica.",
   "heroEyebrow": "Desarrollo de software · investigación cuántica",
@@ -8,7 +8,6 @@
   "heroAccent": "lo clásico.",
   "heroDescription": "Soy desarrollador de software y doctorando en Ciencias de la Computación. Investigo en computación cuántica, conectando ideas teóricas con implementaciones y experimentos reproducibles.",
   "heroImageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=85",
-  "heroImageFile": "",
   "heroImageAlt": "Circuito electrónico y componentes de computación",
   "aboutLine1": "Entre el código",
   "aboutAccent": "y la cuántica.",
@@ -23,8 +22,5 @@
   ],
   "contactHeadline": "¿Hablamos de",
   "contactAccent": "ideas por explorar?",
-  "contactDescription": "Me interesan las colaboraciones, el desarrollo de software y las conversaciones sobre computación cuántica.",
-  "email": "",
-  "githubUrl": "",
-  "linkedinUrl": ""
+  "contactDescription": "Me interesan las colaboraciones, el desarrollo de software y las conversaciones sobre computación cuántica."
 }
